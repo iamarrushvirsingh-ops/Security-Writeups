@@ -1,3 +1,0 @@
-# CTF Writeups
-
-Coming soon.
