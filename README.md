@@ -106,6 +106,6 @@ These are my personal learning notes. **No flags or room answers are published h
 
 ## Connect with me
 
-- TryHackMe: *add your profile link*
+- TryHackMe: [iamarrushvirsingh](https://tryhackme.com/p/iamarrushvirsingh)
 - LinkedIn: [Arrush Vir Singh](https://www.linkedin.com/in/arrush-vir-singh-6b3328378/)
 - GitHub: [iamarrushvirsingh-ops](https://github.com/iamarrushvirsingh-ops)
